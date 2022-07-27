@@ -3,4 +3,5 @@ A repository archive for Go (Golang) course
 
 ### Fundamentals
 - [x] Variables
-- [ ] Functions
+- [x] Functions
+- [x] Conditionals
