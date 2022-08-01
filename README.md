@@ -8,7 +8,7 @@ A repository archive for Go (Golang) course
 - [x] Loops 
 
 ### Data structures & types
-- [ ] Structures 
+- [x] Structures 
 - [ ] Arrays 
 - [ ] Slices 
 - [ ] Maps 
