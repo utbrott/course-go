@@ -7,7 +7,7 @@ A repository archive for Go (Golang) course
 - [x] Conditionals / Switches
 - [x] Loops 
 
-### Data structures & types
+### Types
 - [x] Structures 
 - [ ] Arrays 
 - [ ] Slices 
