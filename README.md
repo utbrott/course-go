@@ -9,7 +9,7 @@ A repository archive for Go (Golang) course
 
 ### Types
 - [x] Structures 
-- [ ] Arrays 
+- [x] Arrays 
 - [ ] Slices 
 - [ ] Maps 
 - [ ] Pointers 
