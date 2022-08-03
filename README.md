@@ -10,6 +10,6 @@ A repository archive for Go (Golang) course
 ### Types
 - [x] Structures 
 - [x] Arrays 
-- [ ] Slices 
+- [x] Slices 
 - [ ] Maps 
 - [ ] Pointers 
