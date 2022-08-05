@@ -11,5 +11,5 @@ A repository archive for Go (Golang) course
 - [x] Structures 
 - [x] Arrays 
 - [x] Slices 
-- [ ] Maps 
+- [x] Maps 
 - [ ] Pointers 
