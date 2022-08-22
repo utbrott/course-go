@@ -12,4 +12,4 @@ A repository archive for Go (Golang) course
 - [x] Arrays 
 - [x] Slices 
 - [x] Maps 
-- [ ] Pointers 
+- [x] Pointers 
